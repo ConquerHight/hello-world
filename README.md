@@ -1,6 +1,6 @@
 # hello-world
 just another repository
-hi, I vincent
+hi, I am vincent
 
 This is me learning git and github
 Also new to programing(well,... relatively new) I am also learning alot about the linux os and the command line, I know thats alot at one go, wait for this.....
